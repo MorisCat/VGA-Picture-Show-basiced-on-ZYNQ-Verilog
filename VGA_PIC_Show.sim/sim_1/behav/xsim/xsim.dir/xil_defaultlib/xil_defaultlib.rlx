@@ -1,0 +1,13 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sim_1/new/tb_top.v,1631966522,verilog,,,,tb_top,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sim_1/new/tbfile.v,1631970723,verilog,,,,tbfile,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/ip/blk_mem_gen_0/sim/blk_mem_gen_0.v,1632397688,verilog,,D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,blk_mem_gen_0,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1631627424,verilog,,D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/new/Top.v,,clk_wiz_0,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1631627424,verilog,,D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/new/Top.v,1632284583,verilog,,D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/new/VGA_Ctrl.v,,Top,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/new/VGA_Ctrl.v,1632306596,verilog,,D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/new/frame_control.v,,VGA_Ctrl,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
+D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sources_1/new/frame_control.v,1632397450,verilog,,D:/VerilogDesign/VGA_PIC_Show/VGA_PIC_Show.srcs/sim_1/new/tbfile.v,,frame_control,,,../../../../VGA_PIC_Show.srcs/sources_1/ip/clk_wiz_0,,,,,
